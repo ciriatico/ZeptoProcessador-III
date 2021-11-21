@@ -9,7 +9,11 @@ As instruções recebidas pelo processador são compostas de 32 bits, que se div
 
 A estrutura da instrução pode ser vista abaixo.
 
+<p align="center"><img src="media/i_instrucao.PNG" alt="i_instrucao" style="width:65%;"/></p>
+
 A tabela de operações realizadas pelo processador também pode ser vista na figura abaixo.
+
+<p align="center"><img src="media/i_opcode.PNG" alt="i_instrucao" style="width:65%;"/></p>
 
 ## Implementação do processador
 
